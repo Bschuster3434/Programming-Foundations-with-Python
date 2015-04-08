@@ -22,6 +22,4 @@ jiro_dreams_of_sushi = media.Movie("Jiro Dreams of Sushi", "Documentary followin
 
 movies = [toy_story, avatar, posv, queen_of_versailles, gone_girl, jiro_dreams_of_sushi]
 
-#fresh_tomatoes.open_movies_page(movies)
-
-print media.Movie.__doc__
+fresh_tomatoes.open_movies_page(movies)
